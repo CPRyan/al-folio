@@ -57,7 +57,7 @@ While my work on the costs of reproduction at Cebu controls for a range of socia
 
 <div class="row">
     <div class="row justify-content-sm-center">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/CoR_Longitudinal.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="rounded mx-auto d-block" src="{{ '/assets/img/CoR_Longitudinal.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
