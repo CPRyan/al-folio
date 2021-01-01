@@ -56,7 +56,7 @@ I am following up on this research as part of the Cebu Longitudinal Health and N
 While my work on the costs of reproduction at Cebu controls for a range of social, environmental, and genetic factors, the cross-sectional nature of this work makes it difficult to rule out the possibility that some of the effects are secondary to socioeconomic or other factors that might also affect DNAm and epigenetic age. To address this possibility, my current NSF funded work is updating reproductive histories and adding a second measure of DNAm as part of a 10-year follow-up. DNAm has been measured using DNA from dried blood spots (DBS) on the new ‘EPIC’ array (Illumina), which I have validated using replicate samples run on the legacy platform using whole blood. Expanding this work to include a second time point will minimize confounding tied to individual variation in health and access to resources. It will also produce DNAm data for an additional 800,000+ loci per individual, which will allow future investigations covering a range of questions about the relationship between the environment and the methylome in Cebu.
 
 <div class="row">
-    <div class="class="mx-auto" style="width: 500px;">
+    <div class="mx-auto" style="width: 500px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/CoR_Longitudinal.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -64,7 +64,7 @@ While my work on the costs of reproduction at Cebu controls for a range of socia
 This figure shows some of the longitudinal data I'm currently working on. Each line represents a woman at time 1 (left hand side) and time 2 (right hand side). The y-axis is gravidity (number of pregnancies) each woman reported in ongoing surveys between 2005 and 2009-2014. The slope is therefore the change in gravidity for each woman over time. This will be related to the change in epigenetic age over time, providing stronger indication of a causal role for gravidity and reproduction in accelerated epigenetic aging. 
 </div>
 
-#### 2. __**Funded NIH R01!** Lifecourse determinants and outcomes of epigenetic age acceleration.__
+#### 2. Funded NIH R01! Lifecourse determinants and outcomes of epigenetic age acceleration.
 
 The sample sizes used for my work testing costs of reproduction in women (n = 400) are modest for human population epigenomics studies which can involve hundreds of thousands of tests. My dissertation was also not able to explicitly link epigenetic age with health and age-related decline. We are addressing these limitations through the addition of hundreds of DNAm samples for young men and women as part of a funded NIH R01 titled ‘Lifecourse determinants and outcomes of epigenetic age acceleration across two generations’. This grant – which I was instrumental in the conceptualization and writing of and for which I will lead bioinformatics moving forward – dovetails with and builds on the work laid out in my dissertation. It also expands our sample to the mothers of the original cohort, who are now between 56-83 years old. We will combine DNAm and epigenetic age in these older women with a study of health and aging completed in 2014. These data will allow us to explicitly test the relationships between epigenetic age and health and mortality in these women, which has yet to be done in a non-WEIRD population. This new funding for the Cebu study also will open up opportunities for involvement of students in the future, including in the data analysis, publication write up, and dissertation projects.
 
