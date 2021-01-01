@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Social Epigenomics
-description: Under construction - come back soon!
-img: /assets/img/christopher-burns-Wiu3w-99tNg-unsplash.jpg
+title: The Epigenetics of Inequality
+description: How do early life exposures 'get under the skin'?
+img: /assets/img/inequality.jpeg
 importance: 2
 ---
+Under construction - come back soon!

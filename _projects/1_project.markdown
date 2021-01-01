@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Reproduction and Aging
-description: Under construction - come back soon!
-img: /assets/img/christopher-burns-Wiu3w-99tNg-unsplash.jpg
+title: Reproduction and Aging in the Epigenome
+description: Testing the 'costs of reproduction' in women and men
+img: /assets/img/epigenetic_age_DNA_hourglass.jpg
 importance: 1
 ---
+
+Under construction - come back soon!

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Sperm Epigenomics
-description: Under construction - come back soon!
-img: /assets/img/christopher-burns-Wiu3w-99tNg-unsplash.jpg
+title: Sperm epigenomics
+description: Male germline epigenetic inheritance
+img: /assets/img/Spermatogenesis.jpg
 importance: 3
 ---
+Under construction - come back soon!
