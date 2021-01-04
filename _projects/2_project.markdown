@@ -22,7 +22,7 @@ Despite the widely documented connection between social experiences and health o
 I have led the bioinformatic analysis and co-written multiple papers examining the role of DNA methylation (a kind of epigenetic process) in the developmental origins of health and disease (DOHaD). In [McDade, Ryan et al. 2017](../../assets/pdf/McDade et al. - 2017 - Social and physical environments early in developm.pdf), we showed that that nutritional, microbial, and psychosocial exposures early in life predict DNAm in genes associated with inflammation measured in adulthood. 
 
 <div class="row">
-    <div class="mx-auto" style="width: 500px">
+    <div class="mx-auto" style="width: 600px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Inflammation_Volcano(3).jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -48,7 +48,7 @@ In [McDade, Ryan et al. 2019](../../assets/pdf/McDade et al. - 2019 - Genome-wid
 
 
 <div class="row">
-    <div class="mx-auto" style="width: 500px">
+    <div class="mx-auto" style="width: 300px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/hh_ll_volcano.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -62,7 +62,7 @@ We found large numbers of differentially methylated positions associated with SE
 
 
 <div class="row">
-    <div class="mx-auto" style="width: 500px">
+    <div class="mx-auto" style="width: 400px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/four_way_SES_venn.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -71,7 +71,5 @@ To better understand the relative contribution of different exposures to DNAm, w
 </div>
 
 #### Future research
-
-We are now expanding our original analysis by incorporating participants’ whole genome (~640,000 single nucleotide polymorphisms, SNPs per individual). This will help us understand how an individual’s genetic variation (DNA) alters the way socioeconomic status affects their epigenome. Our preliminary evidence suggests that the effect of the environment is mediated in part by genetic factors, a finding that we hope will tell us more about how individuals differ in their susceptibility and resilience to the exposures of inequality.
 
 To address population stratification and genetic variation, we used the top 2 principle components of the high-dimensional genomic dataset (Infinium Global Screening Array-24 Kit). We are now expanding our original analysis by incorporating participants’ whole genome (~640,000 single nucleotide polymorphisms, SNPs per individual). This will help us understand how an individual’s genetic variation (DNA) alters the way socioeconomic status affects their epigenome. Our preliminary evidence suggests that the effect of the environment is mediated in part by individual genetic factors, a finding that we hope will tell us more about how individuals differ in their susceptibility and resilience to the exposures of socioeconomic inequality. 
