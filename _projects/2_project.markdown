@@ -21,9 +21,8 @@ Despite the widely documented connection between social experiences and health o
 
 I have led the bioinformatic analysis and co-written multiple papers examining the role of DNA methylation (a kind of epigenetic process) in the developmental origins of health and disease (DOHaD). In [McDade, Ryan et al. 2017](../../assets/pdf/McDade et al. - 2017 - Social and physical environments early in developm.pdf), we showed that that nutritional, microbial, and psychosocial exposures early in life predict DNAm in genes associated with inflammation measured in adulthood. 
 
-
 <div class="row">
-    <div class="mx-auto" style="width: 600px">
+    <div class="mx-auto" style="width: 500px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Inflammation_Volcano(3).jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -33,14 +32,17 @@ Volcano plots of the associations between DNAm in young adulthood and variables 
 
 
 
+
+
 <div class="row">
-    <div class="mx-auto" style="width: 600px">
+    <div class="mx-auto" style="width: 500px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/CD8A-inkscaped.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-The effect of early life environment was particularly evident in some genes associated with inflammation for example *CD8A*. *CD8A* is a cell surface glycoprotein found on most cytotoxic T lymphocytes that mediates efficient cell-cell interactions within the immune system. This allows cytotoxic T cells to recognize and eliminate infected cells and tumor cells. The link between early life exposure to animal feces and this important immune associated gene may help us understand the commonly observed correlation between exposure to microbial diversity in childhood and adult chronic disease, often theorized by the *hygiene hypothesis*.  
+The effect of early life environment was particularly evident in some genes associated with inflammation for example CD8A. CD8A is a cell surface glycoprotein found on most cytotoxic T lymphocytes that mediates efficient cell-cell interactions within the immune system. This allows cytotoxic T cells to recognize and eliminate infected cells and tumor cells. The link between early life exposure to animal feces and this important immune associated gene may help us understand the commonly observed correlation between exposure to microbial diversity in childhood and adult chronic disease, often theorized by the hygiene hypothesis. 
 </div>
+
 
 
 In [McDade, Ryan et al. 2019](../../assets/pdf/McDade et al. - 2019 - Genome-wide analysis of DNA methylation in relatio.pdf), we expanded on our original questions about early life environments and adult health by examining the effects of socioeconomic status on DNA methylation. 
