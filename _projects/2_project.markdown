@@ -10,7 +10,7 @@ importance: 2
     <div class="mx-auto" style="width: 250px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/inequality.jpeg' | relative_url }}" alt="" title="example image"/>
     </div>
-
+</div>
 
 #### Background 
 
