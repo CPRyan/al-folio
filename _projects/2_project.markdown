@@ -49,7 +49,7 @@ In [McDade, Ryan et al. 2019](../../assets/pdf/McDade et al. - 2019 - Genome-wid
 
 <div class="row">
     <div class="mx-auto" style="width: 500px">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/hh_ll_volcano.tiff' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/hh_ll_volcano.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
