@@ -7,14 +7,9 @@ importance: 2
 ---
 
 <div class="row">
-    <div class="mx-auto" style="width: 600px">
+    <div class="mx-auto" style="width: 250px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/inequality.jpeg' | relative_url }}" alt="" title="example image"/>
     </div>
-</div>
-<div class="caption">
-
-</div>
-</div>
 
 
 #### Background 
@@ -35,7 +30,7 @@ I have led the bioinformatic analysis and co-written multiple papers examining t
 <div class="caption">
 Volcano plots of the associations between DNAm in young adulthood and variables measured early in development, including (A) household assets in childhood, (B) extended parental absence in childhood, (C) exposure to animal feces in infancy, (D) birth in the dry season, and (E) duration of exclusive breastfeeding. Each point represents a CpG site (n = 222), with the magnitude of association between each variable and DNAm on the x axis (delta beta) and –log10 of the uncorrected P value from the linear regression models on the y axis. Blue dots represent sites with adjusted P values < 0.15.
 </div>
-</div>
+
 
 
 <div class="row">
@@ -46,7 +41,7 @@ Volcano plots of the associations between DNAm in young adulthood and variables 
 <div class="caption">
 The effect of early life environment was particularly evident in some genes associated with inflammation for example *CD8A*. *CD8A* is a cell surface glycoprotein found on most cytotoxic T lymphocytes that mediates efficient cell-cell interactions within the immune system. This allows cytotoxic T cells to recognize and eliminate infected cells and tumor cells. The link between early life exposure to animal feces and this important immune associated gene may help us understand the commonly observed correlation between exposure to microbial diversity in childhood and adult chronic disease, often theorized by the *hygiene hypothesis*.  
 </div>
-</div>
+
 
 In [McDade, Ryan et al. 2019](../../assets/pdf/McDade et al. - 2019 - Genome-wide analysis of DNA methylation in relatio.pdf), we expanded on our original questions about early life environments and adult health by examining the effects of socioeconomic status on DNA methylation. 
 
@@ -58,7 +53,7 @@ In [McDade, Ryan et al. 2019](../../assets/pdf/McDade et al. - 2019 - Genome-wid
 <div class="caption">
 Volcano plot comparing low/low to high/high SES score (high/high as reference). Each point represents the difference in methylation between groups, with colored points representing significant down-methylation (red) and up-methylation (green) after accounting for false discovery (FDR q < 0.05). Taken from McDade, Ryan et al. 2019
 </div>
-</div>
+
 
 
 We found large numbers of differentially methylated positions associated with SES, totalling 2,546 CpG sites across 1,537 annotated genes. Many of these differences were found in regions otherwise tied to cardiovascular risk and other diseases, providing a link between inequality and health.
@@ -72,16 +67,9 @@ We found large numbers of differentially methylated positions associated with SE
 <div class="caption">
 To better understand the relative contribution of different exposures to DNAm, we broke our analyses down by commonly measured aspects of SES. Education was the single most important factor determining differences in DNAm, highlighting the importance of future research into the ways that environments and inequality 'get under the skin' and ultimately affect the health of marginalized people. 
 </div>
-</div>
 
 #### Future research
 
 We are now expanding our original analysis by incorporating participants’ whole genome (~640,000 single nucleotide polymorphisms, SNPs per individual). This will help us understand how an individual’s genetic variation (DNA) alters the way socioeconomic status affects their epigenome. Our preliminary evidence suggests that the effect of the environment is mediated in part by genetic factors, a finding that we hope will tell us more about how individuals differ in their susceptibility and resilience to the exposures of inequality.
-
-
-
-
-
-
 
 To address population stratification and genetic variation, we used the top 2 principle components of the high-dimensional genomic dataset (Infinium Global Screening Array-24 Kit). We are now expanding our original analysis by incorporating participants’ whole genome (~640,000 single nucleotide polymorphisms, SNPs per individual). This will help us understand how an individual’s genetic variation (DNA) alters the way socioeconomic status affects their epigenome. Our preliminary evidence suggests that the effect of the environment is mediated in part by individual genetic factors, a finding that we hope will tell us more about how individuals differ in their susceptibility and resilience to the exposures of socioeconomic inequality. 
