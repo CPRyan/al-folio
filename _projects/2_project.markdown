@@ -24,7 +24,7 @@ I have led the bioinformatic analysis and co-written multiple papers examining t
 
 <div class="row">
     <div class="mx-auto" style="width: 600px">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Inflammation_Volcano(3).pdf' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Inflammation_Volcano(3).jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -35,7 +35,7 @@ Volcano plots of the associations between DNAm in young adulthood and variables 
 
 <div class="row">
     <div class="mx-auto" style="width: 600px">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/CD8A-inkscaped.pdf' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/CD8A-inkscaped.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -60,7 +60,7 @@ We found large numbers of differentially methylated positions associated with SE
 
 
 <div class="row">
-    <div class="mx-auto" style="width: 600px">
+    <div class="mx-auto" style="width: 500px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/four_way_SES_venn.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
