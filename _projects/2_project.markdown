@@ -31,9 +31,6 @@ Volcano plots of the associations between DNAm in young adulthood and variables 
 </div>
 
 
-
-
-
 <div class="row">
     <div class="mx-auto" style="width: 500px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/CD8A-inkscaped.jpg' | relative_url }}" alt="" title="example image"/>
@@ -47,13 +44,16 @@ The effect of early life environment was particularly evident in some genes asso
 
 In [McDade, Ryan et al. 2019](../../assets/pdf/McDade et al. - 2019 - Genome-wide analysis of DNA methylation in relatio.pdf), we expanded on our original questions about early life environments and adult health by examining the effects of socioeconomic status on DNA methylation. 
 
+
+
+
 <div class="row">
-    <div class="mx-auto" style="width: 600px">
+    <div class="mx-auto" style="width: 500px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/hh_ll_volcano.tiff' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-Volcano plot comparing low/low to high/high SES score (high/high as reference). Each point represents the difference in methylation between groups, with colored points representing significant down-methylation (red) and up-methylation (green) after accounting for false discovery (FDR q < 0.05). Taken from McDade, Ryan et al. 2019
+Volcano plot comparing low/low to high/high SES score (high/high as reference). Each point represents the difference in methylation between groups, with colored points representing significant down-methylation (red) and up-methylation (green) after accounting for false discovery (FDR q < 0.05). Taken from McDade, Ryan et al. 2019. 
 </div>
 
 
