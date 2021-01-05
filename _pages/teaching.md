@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: A collection of cool stuff my colleagues and I are working on. This page is currently under development, so check back soon!
+description: This is where I will be filling in my mentoring and teaching work. This page is currently under development, so check back soon!
 nav: true
 ---
 
