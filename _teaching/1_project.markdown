@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Evolutionary Medicine
-description: A highly-popular upper-level undergraduate course
+description: A popular upper-level undergraduate course
 img: /assets/img/evolutionary-medicine.jpg
 importance: 1
 ---
-<p align="right"><img src="assets/img/mismatch.jpg" width=200></p>
-
+<div class="row">
+    <div class="mx-auto" style="width: 200px">
+        <img class="float-right" src="{{ '/assets/img/mismatch.jpg' | relative_url }}" alt="" title=""/>
+    </div>
+</div>
 #### Why do we get sick? 
 
 Biomedical science has improved the human condition and has a remarkable legacy of cataloging disease and mitigating its negative effects. Nevertheless, many questions about *why* we get sick continue to elude us: Why do we age? Why is cancer so common and hard to treat? Why are bacteria becoming drug resistant? And why are the genes that cause certain diseases so prevalent in human populations? These kinds of questions are being addressed by biologists, epidemiologists, veterinarians, and medical professionals in the field of Evolutionary Medicine. This course will give an introduction to Evolutionary Medicine and explore why understanding of our health requires the broader context provided by evolutionary theory. 
