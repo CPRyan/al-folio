@@ -2,7 +2,7 @@
 layout: page
 title: Virtual Science Mentor
 description: Illinois Science and Technology Institute (ISTI) 
-img: ISTI.jpg
+img: ISTI.png
 importance: 2
 ---
 
