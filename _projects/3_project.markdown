@@ -7,7 +7,7 @@ importance: 3
 ---
 
 <div class="row">
-    <div class="mx-auto" style="width: 250px">
+    <div class="mx-auto" style="width: 500px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/paternal_inheritance.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -24,7 +24,7 @@ Studies of inheritance and genetics has long held that this is impossible; germl
 
 <div class="row">
     <div class="mx-auto" style="width: 600px">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Figure_1_GEI.pdf' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Figure_1_GEI.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -39,7 +39,7 @@ However, most of what we know comes from mice, and research in this area in huma
 
 <div class="row">
     <div class="mx-auto" style="width: 600px">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mouse_human.pdf' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mouse_human.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
