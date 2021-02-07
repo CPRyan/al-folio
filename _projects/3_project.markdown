@@ -7,7 +7,7 @@ importance: 3
 ---
 
 <div class="row">
-    <div class="mx-auto" style="width: 500px">
+    <div class="mx-auto" style="width: 400px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/paternal_inheritance.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -37,6 +37,8 @@ Evidence that the environment around the time of conception - or even before - c
 
 However, most of what we know comes from mice, and research in this area in humans is still growing. While most epigenetic processes are shared, humans differ from rodents in important ways. This creates a number of challenges to studying this 'germline epigenetic inheritance' (GEI) in humans, and need to be carefully considered as we move forward. Our long lives mean that we can experience many exposures over the lifetime, and because of our complex societies, exposures (i.e. nutritional or social stress) are often correlated. Unlike in mice, exposures are rarely random, but are the product of hierarchies of power and structural inequalities. Furthermore, GEI provides only one pathway - parents who face nutritional or social adversity may transmit these effects onto their offspring through a number of non-biological pathways (e.g. changes in parenting behavior).
 
+Nevertheless, there are a number of advantages of working with humans and non-human primates in this area. Researchers can capitalize on large, long-term datasets that have rich phenotypic, genetic, and health information, taking advantage of plethora of genetic and physiological tools available for our own species. We are also learning more about the potential 'critical windows' of sperm epigenomic changes, and the regions in the genome that might be most susceptible to epigenetic change. These insights will provide us with new opportunities to understand the effect of the pre-conceptional environment on future generations' health in humans and our close relatives. 
+
 <div class="row">
     <div class="mx-auto" style="width: 600px">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mouse_human.jpg' | relative_url }}" alt="" title="example image"/>
@@ -45,9 +47,6 @@ However, most of what we know comes from mice, and research in this area in huma
 <div class="caption">
 Much of what we know about germline epigenetic inheritance through sperm (GEI) comes from worms, flies, or mice. These findings may or may not translate to humans, and research - especially in non-clinical settings - continues to be a challenge. Large, long-term, multigenerational human and non-human primate datasets with rich social and biological information common among biological anthropologists and human biologists may be key to testing this hypothesis.
 </div>
-
-
-Nevertheless, there are a number of advantages of working with humans and non-human primates in this area. Researchers can capitalize on large, long-term datasets that have rich phenotypic, genetic, and health information, taking advantage of plethora of genetic and physiological tools available for our own species. We are also learning more about the potential 'critical windows' of sperm epigenomic changes, and the regions in the genome that might be most susceptible to epigenetic change. These insights will provide us with new opportunities to understand the effect of the pre-conceptional environment on future generations' health in humans and our close relatives. 
 
 
 #### Future Research
