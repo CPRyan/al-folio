@@ -3,7 +3,7 @@ layout: page
 title: Virtual Science Mentor
 description: Illinois Science and Technology Institute (ISTI) 
 img: /assets/img/ISTI.png
-importance: 2
+importance: 3
 ---
 
 I am a **virtual science mentor** for high-school students across Chicagoland and Illinois. 
